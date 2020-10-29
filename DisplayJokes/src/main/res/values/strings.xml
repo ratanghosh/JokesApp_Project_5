@@ -1,0 +1,4 @@
+<resources>
+    <string name="jokes_title">Awesome Joke</string>
+    <string name="jokes_content">JOKE_CONTENT</string>
+</resources>
